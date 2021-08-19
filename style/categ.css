@@ -1,0 +1,14 @@
+.category{
+    width: 600px;
+}
+.micne{
+    text-align: left;
+    margin-left: 30px;
+}
+p{
+    text-transform: capitalize;
+}
+.cat{
+    display: flex;
+    background-color: tomato;
+}
